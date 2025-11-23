@@ -1,0 +1,5 @@
+{
+  "name": "PolesKata AI",
+  "description": "Asisten penulisan cerdas yang membantu memperbaiki tata bahasa, mengubah nada bicara, dan meringkas teks menggunakan Gemini AI.",
+  "requestFramePermissions": []
+}
